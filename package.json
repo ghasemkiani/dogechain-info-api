@@ -1,0 +1,27 @@
+{
+	"name": "@ghasemkiani/dogechain-info-api",
+	"version": "1.0.0",
+	"description": "A simple API client for dogechain.info",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ghasemkiani/dogechain-info-api.git"
+	},
+	"keywords": [
+		"dogechain.info",
+		"api"
+	],
+	"author": "Ghasem Kiani",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ghasemkiani/dogechain-info-api/issues"
+	},
+	"homepage": "https://github.com/ghasemkiani/dogechain-info-api#readme",
+	"dependencies": {
+		"@ghasemkiani/base": "github:ghasemkiani/base"
+	}
+}
